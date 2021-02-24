@@ -1,0 +1,7 @@
+x="hello world"
+print(x.upper())
+print(x.lower())
+print(x.replace('h','y'))
+print(x.count("hello"))
+print(x.center(30))
+print(x.find("hello"))
